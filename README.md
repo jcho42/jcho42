@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="/assets/Books Github Banner.png" alt="github banner library" width="100%"/>
 
-<!--
-**jcho42/jcho42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/jcho42">
+    <img src="/assets/green-chain-link.png" alt="portfolio icon" width="40px" />
+  </a>
+  <a href="https://www.linkedin.com/in/jcho42/">
+    <img src="/assets/linkedin-icon.png" alt="portfolio icon" width="40px" />
+  </a>
+  <a href="https://github.com/jcho42">
+    <img src="/assets/github-icon.png" alt="portfolio icon" width="40px" />
+  </a>
+  <a href="https://jcho42.medium.com/">
+    <img src="/assets/medium-icon.png" alt="portfolio icon" width="40px" />
+  </a>
+</p>
